@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "/assets/img/team/1.jpg",
+    "name": "Axmedov Avazbek Xurmatbekovich",
+    "position": "CEO Founder"
+  },
+  {
+    "picture": "/assets/img/team/2.jpg",
+    "name": "Boltayev Avaz Xudoyberdiyevich",
+    "position": "Deputy Director General of programming"
+  },
+  {
+    "picture": "/assets/img/team/3.jpg",
+    "name": "Mirmaxsudov Mirali Miralim o’g’li",
+    "position": "Deputy Director General for commercial and General Affairs"
+  },
+  {
+    "picture": "/assets/img/team/4.jpg",
+    "name": "Boboqulov Jobir Hasan o’g’li",
+    "position": "Head of program development"
+  },
+  {
+    "picture": "/assets/img/team/5.jpg",
+    "name": "Gulomov Bekzod Gulomovich",
+    "position": "Head of the Department for work with robotics and microcircuits"
+  }
+]

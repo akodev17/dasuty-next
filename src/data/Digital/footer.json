@@ -1,0 +1,25 @@
+{
+  "address": "dasuty.com",
+  "phone": "(+23) 5535 68 68",
+  "email": "contact@dasuty.com",
+  "services": [
+    "IT Consultations",
+    "Data Security",
+    "Website Development",
+    "UI/UX Design",
+    "Cloud Services",
+    "Game Development",
+    "CRM & Software"
+  ],
+  "information": [
+    "About Dasuty",
+    "Investors",
+    "Blog",
+    "Career",
+    "Contact",
+    "Affiliate Program",
+    "How It Works",
+    "Pricing Plan",
+    "Covid-19 Update"
+  ]
+}
