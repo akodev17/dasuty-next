@@ -12,7 +12,7 @@ const resources = {
       whyUs: "Why Us",
       portfolio: "Portfolio",
       testimonials: "Testimonials",
-      blog: "Team",
+      blog: "Blog",
       hotline: "hotline 24/7",
       callNow: "Call Now:",
       freeQuote: "Free Quote",
@@ -65,6 +65,23 @@ const resources = {
       paymentGateways: "Over 100+ Payment Gateways Support",
       aiLearning: "AI Machine & Deep Learning",
       support: "Dedicated Support 24/7",
+      portfolio1: "Portfolio",
+      latestProjects: `Latest Projects From Our Team`,
+      project1Title: "Criftocy Landing Page",
+      project1Description: "Website Development, UI/UX Design",
+      project1Text:
+        "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      project1Tech: "WordPress, PHP, HTML/CSS, Figma",
+      project2Title: "AR/VR War 1986 Game",
+      project2Description: "Game Development",
+      project2Text:
+        "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      project2Tech: "VR/AR, iOS & Android, Unity 2D/3D",
+      project3Title: "Infrastructure Upgrade",
+      project3Description: "IT Consultation",
+      project3Text:
+        "Trust our top minds to eliminate workflow pain points, implement new tech & app.",
+      project3Tech: "Consultation, Management",
     },
   },
   ru: {
@@ -130,6 +147,23 @@ const resources = {
       paymentGateways: "Поддержка более 100+ платежных шлюзов",
       aiLearning: "ИИ Машинное обучение и глубокое обучение",
       support: "Круглосуточная поддержка 24/7",
+      portfolio1: "Портфолио",
+      latestProjects: "Последние Проекты Нашей Команды",
+      project1Title: "Criftocy Лэндинг Страница",
+      project1Description: "Разработка Сайта, Дизайн UI/UX",
+      project1Text:
+        "Доверьтесь нашим лучшим специалистам, чтобы устранить узкие места в рабочих процессах, внедрить новые технологии и приложения.",
+      project1Tech: "WordPress, PHP, HTML/CSS, Figma",
+      project2Title: "AR/VR War 1986 Игра",
+      project2Description: "Разработка Игр",
+      project2Text:
+        "Доверьтесь нашим лучшим специалистам, чтобы устранить узкие места в рабочих процессах, внедрить новые технологии и приложения.",
+      project2Tech: "VR/AR, iOS и Android, Unity 2D/3D",
+      project3Title: "Модернизация Инфраструктуры",
+      project3Description: "IT Консультации",
+      project3Text:
+        "Доверьтесь нашим лучшим специалистам, чтобы устранить узкие места в рабочих процессах, внедрить новые технологии и приложения.",
+      project3Tech: "Консультации, Управление",
     },
   },
   uz: {
@@ -196,6 +230,23 @@ const resources = {
       paymentGateways: "100+ to'lov shlyuzlari qo'llab-quvvatlanadi",
       aiLearning: "AI mashina va chuqur o'rganish",
       support: "24/7 kechayu kunduz qo'llab-quvvatlash",
+      portfolio1: "Portfolio",
+      latestProjects: "Jamoamizning So'nggi Loyihalari",
+      project1Title: "Criftocy Landing Sahifasi",
+      project1Description: "Veb-sayt Dasturlash, UI/UX Dizayn",
+      project1Text:
+        "Ish jarayonidagi qiyinchiliklarni bartaraf etish va yangi texnologiyalarni joriy qilish uchun eng yaxshi mutaxassislarimizga ishonishingiz mumkin.",
+      project1Tech: "WordPress, PHP, HTML/CSS, Figma",
+      project2Title: "AR/VR War 1986 O'yini",
+      project2Description: "O'yin Dasturlash",
+      project2Text:
+        "Ish jarayonidagi qiyinchiliklarni bartaraf etish va yangi texnologiyalarni joriy qilish uchun eng yaxshi mutaxassislarimizga ishonishingiz mumkin.",
+      project2Tech: "VR/AR, iOS va Android, Unity 2D/3D",
+      project3Title: "Infratuzilmani Yaxshilash",
+      project3Description: "IT Konsultatsiya",
+      project3Text:
+        "Ish jarayonidagi qiyinchiliklarni bartaraf etish va yangi texnologiyalarni joriy qilish uchun eng yaxshi mutaxassislarimizga ishonishingiz mumkin.",
+      project3Tech: "Konsultatsiya, Boshqaruv",
     },
   },
 };
