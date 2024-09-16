@@ -1,3 +1,5 @@
+import footerInfo from "@data/Digital/footer.json"
+
 const Footer = () => {
   return (
     <footer className="style-1">
