@@ -27,7 +27,7 @@ const Blog = () => {
   useEffect(() => {
     const fetchData = async () => {
       const data = await axios.get(
-        `http://localhost:1337/api/blogs?populate=*&pagination[start]=0&pagination[limit]=${limit}`
+        `https://dasuty-backend.onrender.com/api/blogs?populate=*&pagination[start]=0&pagination[limit]=${limit}`
       );
       let response = data.data.data;
       console.log(response);
@@ -108,7 +108,7 @@ const Blog = () => {
                       </div>
                       <div className="img">
                         <img
-                          src={`http://localhost:1337${item.attributes.image.data.attributes.url}`}
+                          src={`${item.attributes.image.data.attributes.url}`}
                           alt=""
                         />
                       </div>

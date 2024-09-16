@@ -21,7 +21,7 @@ const Portfolio = () => {
   useEffect(() => {
     const fetchData = async () => {
       const data = await axios.get(
-        `http://localhost:1337/api/portfolios?populate=*&pagination[start]=0&pagination[limit]=${limit}`
+        `https://dasuty-backend.onrender.com/api/portfolios?populate=*&pagination[start]=0&pagination[limit]=${limit}`
       );
       let response = data.data.data;
       console.log(response);
@@ -97,7 +97,7 @@ const Portfolio = () => {
                 <SwiperSlide key={index}>
                   <div className="portfolio-card">
                     <div className="img">
-                      <img src={`http://localhost:1337${item.attributes.image.data.attributes.url}`} alt="" />
+                      <img src={`${item.attributes.image.data.attributes.url}`} alt="" />
                     </div>
                     <div className="info">
                       <h5>
