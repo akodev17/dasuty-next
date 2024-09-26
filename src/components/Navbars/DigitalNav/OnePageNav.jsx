@@ -80,7 +80,7 @@ const OnePageNav = () => {
               </div>
               <div className="cont">
                 <small className="text-muted m-0">{t('hotline')}</small>
-                <h6>(+23) 5535 68 68</h6>
+                <h6>71 237 9023</h6>
               </div>
             </div>
             <div className="qoute-nav ps-4">
