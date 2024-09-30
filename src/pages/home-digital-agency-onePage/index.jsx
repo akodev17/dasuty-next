@@ -9,7 +9,7 @@ import About from '@components/Digital/About';
 import Services from '@components/Digital/Services';
 import ChooseUs from '@components/Digital/ChooseUs';
 import Portfolio from '@components/Digital/Portfolio';
-import Testimonials from '@components/Digital/Testimonials';
+// import Testimonials from '@components/Digital/Testimonials';
 import Team from '@components/Digital/Team';
 import Blog from '@components/Digital/Blog';
 import Contact from '@components/Digital/Contact';
@@ -31,7 +31,7 @@ const HomeDigitalAgencyOnePage = () => {
           <Services />
           <ChooseUs />
           <Portfolio />
-          <Testimonials />
+          {/* <Testimonials /> */}
           <Team />
           <Blog />
           <Contact />
