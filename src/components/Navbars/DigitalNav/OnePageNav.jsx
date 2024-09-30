@@ -62,11 +62,11 @@ const OnePageNav = () => {
               {t('portfolio')}
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" data-scroll-nav="5" onClick={scrollToSection}>
               {t('testimonials')}
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a className="nav-link" data-scroll-nav="6" onClick={scrollToSection}>
               {t('blog')}
